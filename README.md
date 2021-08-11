@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**asiaromaria/asiaromaria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Hi there 👋 ♡
 
 - 🔭 I’m currently working on building full-stack projects using MERN...
 - 🌱 I’m currently learning MongoDB...
@@ -13,4 +8,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: email: designsbyarc@gmail.com | instagram: @asiromaria | linkedin: https://www.linkedin.com/in/asia-cole-3b6778121/ 
 - 😄 Pronouns: she/her...
 - ⚡ Fun fact: I taught myself how to play cello from youtube! #self-taughtbaby
--->
+
+
